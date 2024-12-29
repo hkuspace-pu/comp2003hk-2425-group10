@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4244" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4123" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -255,8 +255,11 @@
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-43" value="List activity result" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1800" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h-e-eT71iVXlzsACPXSz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-44" target="MbzBuFXGt3u_Pb7-nrwH-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-44" value="Save as activity record" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1800" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1800" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-48" target="zh9bbnJRR9H2DDXEDnUe-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -366,19 +369,11 @@
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-108" target="zh9bbnJRR9H2DDXEDnUe-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zh9bbnJRR9H2DDXEDnUe-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-108" target="zh9bbnJRR9H2DDXEDnUe-44" edge="1">
+        <mxCell id="h-e-eT71iVXlzsACPXSz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-108" target="h-e-eT71iVXlzsACPXSz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-108" value="Does the activity&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;belong&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to a workout plan?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1820" y="1640" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zh9bbnJRR9H2DDXEDnUe-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-109" target="zh9bbnJRR9H2DDXEDnUe-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1500" y="1800" />
-              <mxPoint x="-1740" y="1800" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="zh9bbnJRR9H2DDXEDnUe-109" value="Mark as complete in the related plan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1560" y="1650" width="120" height="60" as="geometry" />
@@ -436,11 +431,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MbzBuFXGt3u_Pb7-nrwH-0" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1790" y="2010" width="100" height="60" as="geometry" />
+        <mxCell id="MbzBuFXGt3u_Pb7-nrwH-0" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1790" y="2130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MbzBuFXGt3u_Pb7-nrwH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zh9bbnJRR9H2DDXEDnUe-44" target="MbzBuFXGt3u_Pb7-nrwH-0">
+        <mxCell id="h-e-eT71iVXlzsACPXSz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h-e-eT71iVXlzsACPXSz-3" target="zh9bbnJRR9H2DDXEDnUe-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-e-eT71iVXlzsACPXSz-3" value="Store duration, calories burned, and heart rate" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1820" y="1800" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
